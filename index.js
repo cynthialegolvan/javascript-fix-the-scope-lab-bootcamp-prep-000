@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-function add(n) {
+function add2(n) {
   number = n + 2 
   return number
 
